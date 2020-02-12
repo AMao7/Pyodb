@@ -11,7 +11,10 @@ AKA: Python standard libraries! These come out of the box with python
 ````buildoutcfg
     $ git checkout -b <name>
 ````
+### moving betweem existing branches
+
 ````buildoutcfg
+
     $ git checkout <branch>
 ````
 ### Important notes:
